@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLord&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/NathanLord)
 
 I'm Nathan Lord, a Computer Science & Data Science student at Northern Michigan University, currently expected to graduate in May 2025. Here's a bit about me:
 
@@ -9,6 +8,8 @@ I'm Nathan Lord, a Computer Science & Data Science student at Northern Michigan 
 - 📞 Phone: (906) 280-0186
 - ✉️ Email: natedlord@gmail.com
 - 💼 GitHub: [NathanLord](https://github.com/NathanLord)
+  - GitHub Languages 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLord&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/NathanLord)
 
 ## Education
 - **Bachelor of Science**, Major: Computer Science & Data Science, Minor: Mathematics
