@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLord&layout=compact)](https://github.com/NathanLord)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLord&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/NathanLord)
 
 
 <!--
@@ -17,4 +18,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLord&layout=compact)](https://github.com/NathanLord)
+
+
 -->
