@@ -8,7 +8,8 @@ I'm Nathan Lord, a Computer Science & Data Science student at Northern Michigan 
 - 📞 Phone: (906) 280-0186
 - ✉️ Email: natedlord@gmail.com
 - 💼 GitHub: [NathanLord](https://github.com/NathanLord)
-  - GitHub Languages 
+  - GitHub Languages
+     
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanLord&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)](https://github.com/NathanLord)
 
 ## Education
